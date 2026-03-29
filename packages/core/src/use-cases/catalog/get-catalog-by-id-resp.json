@@ -1,0 +1,73 @@
+{
+  "code": 200,
+  "message": "Data retrieved successfully",
+  "data": {
+    "id": "c34ee865-57f0-4777-966b-7fc075e28dab",
+    "displayName": "K2 - Bought Item",
+    "totalWeightGram": 16.539,
+    "taraWeightGram": 0.5,
+    "netWeightGram": 16.039,
+    "taraPrice": 50000,
+    "quality": null,
+    "category": "NECKLACE",
+    "approvedPurpose": null,
+    "isDisplayed": false,
+    "quantity": 1,
+    "percentage": 0.7,
+    "approvedByUserId": null,
+    "productId": "320590fd-14e1-4e44-a5b4-5037e9dba3d5",
+    "branchId": "278261b1-00c8-442c-91bf-92ae3c28c0c8",
+    "createdAt": "2026-02-12T21:27:05.502Z",
+    "updatedAt": "2026-02-12T21:27:05.502Z",
+    "deletedAt": null,
+    "images": [
+      {
+        "id": "bb6497f7-8df4-4e7b-852b-da735e578b8f",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAIBAQIBAQICAgICAgICAwUDAwMDAwYEBAMFBwYHBwcGBwcICQsJCAgKCAcHCg0KCgsMDAwMBwkODw0MDgsMDAz/2wBDAQICAgMDAwYDAwYMCAcIDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAz/wAARCABkAGQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlbaWmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9/KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//Z",
+        "position": 1,
+        "catalogId": "c34ee865-57f0-4777-966b-7fc075e28dab",
+        "createdAt": "2026-02-12T21:27:05.502Z",
+        "updatedAt": "2026-02-12T21:27:05.502Z",
+        "deletedAt": null
+      }
+    ],
+    "product": {
+      "id": "320590fd-14e1-4e44-a5b4-5037e9dba3d5",
+      "productType": "GOLD_JEWELRY",
+      "name": "K2",
+      "createdAt": "2026-02-12T21:27:05.027Z",
+      "updatedAt": "2026-02-12T21:27:05.027Z",
+      "deletedAt": null,
+      "goldJewelryItem": {
+        "id": "b4465218-dd47-4cf8-b73b-5491b1434d45",
+        "buyPricePerGram": 166193,
+        "sellPricePerGram": 174941,
+        "productId": "320590fd-14e1-4e44-a5b4-5037e9dba3d5",
+        "createdAt": "2026-02-12T21:27:05.027Z",
+        "updatedAt": "2026-02-12T21:49:01.700Z",
+        "deletedAt": null
+      },
+      "goldBarItem": null,
+      "nonGoldItem": null
+    },
+    "branch": {
+      "id": "278261b1-00c8-442c-91bf-92ae3c28c0c8",
+      "name": "Semurni Emas Radio Dalam",
+      "telp": "081917965041",
+      "city": "Jakarta",
+      "province": "DKI Jakarta",
+      "subdistrict": "Kec. Kby. Baru",
+      "ward": "Kramat Pela",
+      "postalCode": "12140",
+      "fullAddress": "Jl. Gandaria 1 No.2, RT.2/RW.3, Kramat Pela, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12140",
+      "shortAddress": "Jl. Gandaria 1 No.2",
+      "area": "Radio Dalam",
+      "latitude": "-6.2562715",
+      "longitude": "106.8521776",
+      "createdAt": "2026-02-12T21:27:04.930Z",
+      "updatedAt": "2026-02-12T21:27:04.930Z",
+      "deletedAt": null
+    },
+    "approvedBy": null
+  }
+}

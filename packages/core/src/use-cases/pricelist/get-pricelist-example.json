@@ -1,0 +1,788 @@
+{
+  "code": 200,
+  "message": "Data retrieved successfully",
+  "data": {
+    "GOLD_JEWELRY": [
+      {
+        "id": "208c3339-6248-440c-bcd2-0f14cb66b767",
+        "productType": "GOLD_JEWELRY",
+        "name": "K24 99,9%",
+        "createdAt": "2026-01-19T18:26:11.061Z",
+        "updatedAt": "2026-01-19T18:26:11.061Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "f38978a7-911f-4fdc-abaf-38af8a666bb3",
+          "buyPricePerGram": 2462418,
+          "sellPricePerGram": 2462418,
+          "productId": "208c3339-6248-440c-bcd2-0f14cb66b767",
+          "createdAt": "2026-01-19T18:26:11.061Z",
+          "updatedAt": "2026-01-19T18:26:11.061Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "b415b382-2dbf-43b5-95d6-e2bdd5e7ddba",
+        "productType": "GOLD_JEWELRY",
+        "name": "K24 99%",
+        "createdAt": "2026-01-19T18:26:11.062Z",
+        "updatedAt": "2026-01-19T18:26:11.062Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "23de2137-d72f-4608-bc9f-c014f18a7ff8",
+          "buyPricePerGram": 2452418,
+          "sellPricePerGram": 2452418,
+          "productId": "b415b382-2dbf-43b5-95d6-e2bdd5e7ddba",
+          "createdAt": "2026-01-19T18:26:11.062Z",
+          "updatedAt": "2026-01-19T18:26:11.062Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "066770ee-1859-409f-93b3-726ceb696bb8",
+        "productType": "GOLD_JEWELRY",
+        "name": "K23",
+        "createdAt": "2026-01-19T18:26:11.064Z",
+        "updatedAt": "2026-01-19T18:26:11.064Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "f05c5a2d-2e15-4030-b9f9-c230a1843fbd",
+          "buyPricePerGram": 2019193,
+          "sellPricePerGram": 2019193,
+          "productId": "066770ee-1859-409f-93b3-726ceb696bb8",
+          "createdAt": "2026-01-19T18:26:11.064Z",
+          "updatedAt": "2026-01-19T18:26:11.064Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "968272e3-ac11-4756-92f0-d738bc382d31",
+        "productType": "GOLD_JEWELRY",
+        "name": "K22",
+        "createdAt": "2026-01-19T18:26:11.066Z",
+        "updatedAt": "2026-01-19T18:26:11.066Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "945631b4-dc88-4b5e-9adc-3c1f7b134253",
+          "buyPricePerGram": 1930669,
+          "sellPricePerGram": 1930669,
+          "productId": "968272e3-ac11-4756-92f0-d738bc382d31",
+          "createdAt": "2026-01-19T18:26:11.066Z",
+          "updatedAt": "2026-01-19T18:26:11.066Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "679f7b05-d72d-47e9-b4a1-d5a9a258dc51",
+        "productType": "GOLD_JEWELRY",
+        "name": "K21",
+        "createdAt": "2026-01-19T18:26:11.067Z",
+        "updatedAt": "2026-01-19T18:26:11.067Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "12e6fac8-c470-496b-a6ef-0b2d2551e314",
+          "buyPricePerGram": 1844252,
+          "sellPricePerGram": 1844252,
+          "productId": "679f7b05-d72d-47e9-b4a1-d5a9a258dc51",
+          "createdAt": "2026-01-19T18:26:11.067Z",
+          "updatedAt": "2026-01-19T18:26:11.067Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "21563e99-d8bb-4378-9d37-9a4025bc7fa5",
+        "productType": "GOLD_JEWELRY",
+        "name": "K20",
+        "createdAt": "2026-01-19T18:26:11.068Z",
+        "updatedAt": "2026-01-19T18:26:11.068Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "bdf6306d-c8b2-444e-9370-15a3145b97a1",
+          "buyPricePerGram": 1755728,
+          "sellPricePerGram": 1755728,
+          "productId": "21563e99-d8bb-4378-9d37-9a4025bc7fa5",
+          "createdAt": "2026-01-19T18:26:11.068Z",
+          "updatedAt": "2026-01-19T18:26:11.068Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "3bf04544-814a-41fe-915c-eac090b88bd9",
+        "productType": "GOLD_JEWELRY",
+        "name": "K19",
+        "createdAt": "2026-01-19T18:26:11.070Z",
+        "updatedAt": "2026-01-19T18:26:11.070Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "69bbc921-dbec-4f18-9d4b-a923607d4eba",
+          "buyPricePerGram": 1667204,
+          "sellPricePerGram": 1667204,
+          "productId": "3bf04544-814a-41fe-915c-eac090b88bd9",
+          "createdAt": "2026-01-19T18:26:11.070Z",
+          "updatedAt": "2026-01-19T18:26:11.070Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "15abd9f3-77f9-43e6-ae6a-b81ca76792f7",
+        "productType": "GOLD_JEWELRY",
+        "name": "K18",
+        "createdAt": "2026-01-19T18:26:11.071Z",
+        "updatedAt": "2026-01-19T18:26:11.071Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "487609f5-3913-40f9-8156-aac543292d3b",
+          "buyPricePerGram": 1580788,
+          "sellPricePerGram": 1580788,
+          "productId": "15abd9f3-77f9-43e6-ae6a-b81ca76792f7",
+          "createdAt": "2026-01-19T18:26:11.071Z",
+          "updatedAt": "2026-01-19T18:26:11.071Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "1635725e-594f-4d8c-b7a7-87381450cc3d",
+        "productType": "GOLD_JEWELRY",
+        "name": "K17",
+        "createdAt": "2026-01-19T18:26:11.072Z",
+        "updatedAt": "2026-01-19T18:26:11.072Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "b48279ac-7e7a-4bf4-a1c3-96e290d01717",
+          "buyPricePerGram": 1492264,
+          "sellPricePerGram": 1492264,
+          "productId": "1635725e-594f-4d8c-b7a7-87381450cc3d",
+          "createdAt": "2026-01-19T18:26:11.072Z",
+          "updatedAt": "2026-01-19T18:26:11.072Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "4bca6f59-abbb-434d-b087-96bff27a7dba",
+        "productType": "GOLD_JEWELRY",
+        "name": "K16",
+        "createdAt": "2026-01-19T18:26:11.074Z",
+        "updatedAt": "2026-01-19T18:26:11.074Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "778fd54b-b1c5-431c-80cd-5771b4094a43",
+          "buyPricePerGram": 1403739,
+          "sellPricePerGram": 1403739,
+          "productId": "4bca6f59-abbb-434d-b087-96bff27a7dba",
+          "createdAt": "2026-01-19T18:26:11.074Z",
+          "updatedAt": "2026-01-19T18:26:11.074Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "b1615c63-ef07-4c41-bbbe-35ae3c895a69",
+        "productType": "GOLD_JEWELRY",
+        "name": "K15",
+        "createdAt": "2026-01-19T18:26:11.075Z",
+        "updatedAt": "2026-01-19T18:26:11.075Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "e3f5477c-9601-43bc-a9eb-50acdfab048a",
+          "buyPricePerGram": 1317323,
+          "sellPricePerGram": 1317323,
+          "productId": "b1615c63-ef07-4c41-bbbe-35ae3c895a69",
+          "createdAt": "2026-01-19T18:26:11.075Z",
+          "updatedAt": "2026-01-19T18:26:11.075Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "69f06d1d-ad86-464f-aa1a-744af64bb020",
+        "productType": "GOLD_JEWELRY",
+        "name": "K14",
+        "createdAt": "2026-01-19T18:26:11.076Z",
+        "updatedAt": "2026-01-19T18:26:11.076Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "9f88a237-041a-470c-859e-3c3216de2dc8",
+          "buyPricePerGram": 1228799,
+          "sellPricePerGram": 1228799,
+          "productId": "69f06d1d-ad86-464f-aa1a-744af64bb020",
+          "createdAt": "2026-01-19T18:26:11.076Z",
+          "updatedAt": "2026-01-19T18:26:11.076Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "da1c2190-c75b-4daf-9284-afa5c0d8a2ef",
+        "productType": "GOLD_JEWELRY",
+        "name": "K13",
+        "createdAt": "2026-01-19T18:26:11.077Z",
+        "updatedAt": "2026-01-19T18:26:11.077Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "6c649be4-557a-40c6-963a-3016e33633e4",
+          "buyPricePerGram": 1140275,
+          "sellPricePerGram": 1140275,
+          "productId": "da1c2190-c75b-4daf-9284-afa5c0d8a2ef",
+          "createdAt": "2026-01-19T18:26:11.077Z",
+          "updatedAt": "2026-01-19T18:26:11.077Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "92965875-ad98-4f9e-a5fb-d64f95632f49",
+        "productType": "GOLD_JEWELRY",
+        "name": "K12",
+        "createdAt": "2026-01-19T18:26:11.079Z",
+        "updatedAt": "2026-01-19T18:26:11.079Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "ea48630b-3498-4dd2-a120-4226164486eb",
+          "buyPricePerGram": 1053858,
+          "sellPricePerGram": 1053858,
+          "productId": "92965875-ad98-4f9e-a5fb-d64f95632f49",
+          "createdAt": "2026-01-19T18:26:11.079Z",
+          "updatedAt": "2026-01-19T18:26:11.079Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "8c188086-5a0c-46c2-8c35-bab7bd694834",
+        "productType": "GOLD_JEWELRY",
+        "name": "K11",
+        "createdAt": "2026-01-19T18:26:11.081Z",
+        "updatedAt": "2026-01-19T18:26:11.081Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "38db35e6-064a-4911-aa5a-1bb4be4fdaf6",
+          "buyPricePerGram": 965334,
+          "sellPricePerGram": 965334,
+          "productId": "8c188086-5a0c-46c2-8c35-bab7bd694834",
+          "createdAt": "2026-01-19T18:26:11.081Z",
+          "updatedAt": "2026-01-19T18:26:11.081Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "3d1e4444-a12d-4cfd-abe7-3c509dff6828",
+        "productType": "GOLD_JEWELRY",
+        "name": "K10",
+        "createdAt": "2026-01-19T18:26:11.082Z",
+        "updatedAt": "2026-01-19T18:26:11.082Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "558f500c-3f53-4861-8b71-e882328587b8",
+          "buyPricePerGram": 876810,
+          "sellPricePerGram": 876810,
+          "productId": "3d1e4444-a12d-4cfd-abe7-3c509dff6828",
+          "createdAt": "2026-01-19T18:26:11.082Z",
+          "updatedAt": "2026-01-19T18:26:11.082Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "8984a339-5901-45d7-a49c-88256c18d0e9",
+        "productType": "GOLD_JEWELRY",
+        "name": "K9",
+        "createdAt": "2026-01-19T18:26:11.083Z",
+        "updatedAt": "2026-01-19T18:26:11.083Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "a4c00bfd-4e36-44f4-888c-7c9c95c2f43e",
+          "buyPricePerGram": 790394,
+          "sellPricePerGram": 790394,
+          "productId": "8984a339-5901-45d7-a49c-88256c18d0e9",
+          "createdAt": "2026-01-19T18:26:11.083Z",
+          "updatedAt": "2026-01-19T18:26:11.083Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "4a40f93f-37d9-4681-b6b9-04fdd8fb1424",
+        "productType": "GOLD_JEWELRY",
+        "name": "K8",
+        "createdAt": "2026-01-19T18:26:11.084Z",
+        "updatedAt": "2026-01-19T18:26:11.084Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "173f6b64-d104-416f-808b-34ad2e72fb72",
+          "buyPricePerGram": 701870,
+          "sellPricePerGram": 701870,
+          "productId": "4a40f93f-37d9-4681-b6b9-04fdd8fb1424",
+          "createdAt": "2026-01-19T18:26:11.084Z",
+          "updatedAt": "2026-01-19T18:26:11.084Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "6d92a31c-49f6-46c9-8be6-7a61ae0dd7ae",
+        "productType": "GOLD_JEWELRY",
+        "name": "K7",
+        "createdAt": "2026-01-19T18:26:11.086Z",
+        "updatedAt": "2026-01-19T18:26:11.086Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "ff881717-4d2b-4e43-a7d2-0b9b420c56a0",
+          "buyPricePerGram": 613346,
+          "sellPricePerGram": 613346,
+          "productId": "6d92a31c-49f6-46c9-8be6-7a61ae0dd7ae",
+          "createdAt": "2026-01-19T18:26:11.086Z",
+          "updatedAt": "2026-01-19T18:26:11.086Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "f70cea06-707f-4032-b749-e55b5d42f927",
+        "productType": "GOLD_JEWELRY",
+        "name": "K6",
+        "createdAt": "2026-01-19T18:26:11.087Z",
+        "updatedAt": "2026-01-19T18:26:11.087Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "e63b5291-11a8-4e3c-88dc-3fe15e21efb7",
+          "buyPricePerGram": 526929,
+          "sellPricePerGram": 526929,
+          "productId": "f70cea06-707f-4032-b749-e55b5d42f927",
+          "createdAt": "2026-01-19T18:26:11.087Z",
+          "updatedAt": "2026-01-19T18:26:11.087Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "f8a37044-be61-4d7d-9672-8af4e3d268a0",
+        "productType": "GOLD_JEWELRY",
+        "name": "K5",
+        "createdAt": "2026-01-19T18:26:11.088Z",
+        "updatedAt": "2026-01-19T18:26:11.088Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "52ddd1a1-b2e7-49ef-ae3b-820a82362e0a",
+          "buyPricePerGram": 438405,
+          "sellPricePerGram": 438405,
+          "productId": "f8a37044-be61-4d7d-9672-8af4e3d268a0",
+          "createdAt": "2026-01-19T18:26:11.088Z",
+          "updatedAt": "2026-01-19T18:26:11.088Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "0b58e01a-7564-4b0a-8525-761e533fd28b",
+        "productType": "GOLD_JEWELRY",
+        "name": "K4",
+        "createdAt": "2026-01-19T18:26:11.089Z",
+        "updatedAt": "2026-01-19T18:26:11.089Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "21ea302c-69ca-4467-8311-5376db0be1e2",
+          "buyPricePerGram": 349881,
+          "sellPricePerGram": 349881,
+          "productId": "0b58e01a-7564-4b0a-8525-761e533fd28b",
+          "createdAt": "2026-01-19T18:26:11.089Z",
+          "updatedAt": "2026-01-19T18:26:11.089Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "0de32baf-8c1b-42f4-bee2-915dff227f57",
+        "productType": "GOLD_JEWELRY",
+        "name": "K3",
+        "createdAt": "2026-01-19T18:26:11.091Z",
+        "updatedAt": "2026-01-19T18:26:11.091Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "ae62f08b-1d1f-4e9b-8342-2e3c60d71ef8",
+          "buyPricePerGram": 263465,
+          "sellPricePerGram": 263465,
+          "productId": "0de32baf-8c1b-42f4-bee2-915dff227f57",
+          "createdAt": "2026-01-19T18:26:11.091Z",
+          "updatedAt": "2026-01-19T18:26:11.091Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      },
+      {
+        "id": "fb092402-692f-4011-95e1-90cb8bd61082",
+        "productType": "GOLD_JEWELRY",
+        "name": "K2",
+        "createdAt": "2026-01-19T18:26:11.092Z",
+        "updatedAt": "2026-01-19T18:26:11.092Z",
+        "deletedAt": null,
+        "goldJewelryItem": {
+          "id": "2646da3b-e0ed-4618-b8b6-cdd53f32dfe8",
+          "buyPricePerGram": 174941,
+          "sellPricePerGram": 174941,
+          "productId": "fb092402-692f-4011-95e1-90cb8bd61082",
+          "createdAt": "2026-01-19T18:26:11.092Z",
+          "updatedAt": "2026-01-19T18:26:11.092Z",
+          "deletedAt": null
+        },
+        "goldBarItem": null,
+        "nonGoldItem": null
+      }
+    ],
+    "GOLD_BAR": [
+      {
+        "id": "417d3232-77b1-4f1c-a7e1-a37ffc74c1e6",
+        "productType": "GOLD_BAR",
+        "name": "LM CERTI (2025 -2026)",
+        "createdAt": "2026-01-19T18:26:11.050Z",
+        "updatedAt": "2026-01-19T18:26:11.050Z",
+        "deletedAt": null,
+        "goldJewelryItem": null,
+        "goldBarItem": {
+          "id": "ed95e3ba-19a0-40f8-b4ac-8648784e527e",
+          "buyPricePerGram": 2574418,
+          "sellPricePerGram": 2574418,
+          "productId": "417d3232-77b1-4f1c-a7e1-a37ffc74c1e6",
+          "createdAt": "2026-01-19T18:26:11.050Z",
+          "updatedAt": "2026-01-19T18:26:11.050Z",
+          "deletedAt": null
+        },
+        "nonGoldItem": null
+      },
+      {
+        "id": "6643cac3-281d-45c1-ae4d-e5a67bf44f11",
+        "productType": "GOLD_BAR",
+        "name": "LM CERTI (2023 - 2024)",
+        "createdAt": "2026-01-19T18:26:11.051Z",
+        "updatedAt": "2026-01-19T18:26:11.051Z",
+        "deletedAt": null,
+        "goldJewelryItem": null,
+        "goldBarItem": {
+          "id": "32b627fd-6d8e-40dc-9af6-daba7a8e3dd3",
+          "buyPricePerGram": 2502418,
+          "sellPricePerGram": 2502418,
+          "productId": "6643cac3-281d-45c1-ae4d-e5a67bf44f11",
+          "createdAt": "2026-01-19T18:26:11.051Z",
+          "updatedAt": "2026-01-19T18:26:11.051Z",
+          "deletedAt": null
+        },
+        "nonGoldItem": null
+      },
+      {
+        "id": "03bc0097-aff4-40e1-af05-a43aa44ba514",
+        "productType": "GOLD_BAR",
+        "name": "LM CERTI (2021-2022)",
+        "createdAt": "2026-01-19T18:26:11.053Z",
+        "updatedAt": "2026-01-19T18:26:11.053Z",
+        "deletedAt": null,
+        "goldJewelryItem": null,
+        "goldBarItem": {
+          "id": "e6804ff3-fb6d-448b-ac7a-b4b86a567788",
+          "buyPricePerGram": 2480418,
+          "sellPricePerGram": 2480418,
+          "productId": "03bc0097-aff4-40e1-af05-a43aa44ba514",
+          "createdAt": "2026-01-19T18:26:11.053Z",
+          "updatedAt": "2026-01-19T18:26:11.053Z",
+          "deletedAt": null
+        },
+        "nonGoldItem": null
+      },
+      {
+        "id": "3dcb1c15-aeb6-4fe2-b4e1-bc9ab05ae76e",
+        "productType": "GOLD_BAR",
+        "name": "LM CERTI (2018-2020)",
+        "createdAt": "2026-01-19T18:26:11.054Z",
+        "updatedAt": "2026-01-19T18:26:11.054Z",
+        "deletedAt": null,
+        "goldJewelryItem": null,
+        "goldBarItem": {
+          "id": "ebc7a203-6f88-4788-a8bb-123f2b08150e",
+          "buyPricePerGram": 2472418,
+          "sellPricePerGram": 2472418,
+          "productId": "3dcb1c15-aeb6-4fe2-b4e1-bc9ab05ae76e",
+          "createdAt": "2026-01-19T18:26:11.054Z",
+          "updatedAt": "2026-01-19T18:26:11.054Z",
+          "deletedAt": null
+        },
+        "nonGoldItem": null
+      },
+      {
+        "id": "5daa212e-6bdb-4f51-b6fc-6216c6dff706",
+        "productType": "GOLD_BAR",
+        "name": "LM RETRO K24 - 99,9% (Tahun pembuatan 2015 keatas)",
+        "createdAt": "2026-01-19T18:26:11.056Z",
+        "updatedAt": "2026-01-19T18:26:11.056Z",
+        "deletedAt": null,
+        "goldJewelryItem": null,
+        "goldBarItem": {
+          "id": "7726ea5b-0ab9-4695-9373-0e87d8a90b3c",
+          "buyPricePerGram": 2470418,
+          "sellPricePerGram": 2470418,
+          "productId": "5daa212e-6bdb-4f51-b6fc-6216c6dff706",
+          "createdAt": "2026-01-19T18:26:11.056Z",
+          "updatedAt": "2026-01-19T18:26:11.056Z",
+          "deletedAt": null
+        },
+        "nonGoldItem": null
+      },
+      {
+        "id": "2a90edf5-fa78-4eda-ab00-ecb9ee0879e0",
+        "productType": "GOLD_BAR",
+        "name": "UBS K24 - 99,9%",
+        "createdAt": "2026-01-19T18:26:11.057Z",
+        "updatedAt": "2026-01-19T18:26:11.057Z",
+        "deletedAt": null,
+        "goldJewelryItem": null,
+        "goldBarItem": {
+          "id": "5dd4cc35-f5d6-4552-a653-3e2c19fb0877",
+          "buyPricePerGram": 2469418,
+          "sellPricePerGram": 2469418,
+          "productId": "2a90edf5-fa78-4eda-ab00-ecb9ee0879e0",
+          "createdAt": "2026-01-19T18:26:11.057Z",
+          "updatedAt": "2026-01-19T18:26:11.057Z",
+          "deletedAt": null
+        },
+        "nonGoldItem": null
+      },
+      {
+        "id": "60d5a601-a355-4858-87e1-5317ee9b3a6e",
+        "productType": "GOLD_BAR",
+        "name": "GOLDBAR K24 - 99,9%",
+        "createdAt": "2026-01-19T18:26:11.058Z",
+        "updatedAt": "2026-01-19T18:26:11.058Z",
+        "deletedAt": null,
+        "goldJewelryItem": null,
+        "goldBarItem": {
+          "id": "66815bbc-2b26-4ad4-9f60-588a5b19d507",
+          "buyPricePerGram": 2469418,
+          "sellPricePerGram": 2469418,
+          "productId": "60d5a601-a355-4858-87e1-5317ee9b3a6e",
+          "createdAt": "2026-01-19T18:26:11.058Z",
+          "updatedAt": "2026-01-19T18:26:11.058Z",
+          "deletedAt": null
+        },
+        "nonGoldItem": null
+      },
+      {
+        "id": "60a20dc7-6f8b-4932-bd74-055ef1882955",
+        "productType": "GOLD_BAR",
+        "name": "GOLDBAR K24 - 99%",
+        "createdAt": "2026-01-19T18:26:11.060Z",
+        "updatedAt": "2026-01-19T18:26:11.060Z",
+        "deletedAt": null,
+        "goldJewelryItem": null,
+        "goldBarItem": {
+          "id": "b636ae6e-ed1d-4231-a0f4-a9f47f695b8a",
+          "buyPricePerGram": 2459418,
+          "sellPricePerGram": 2459418,
+          "productId": "60a20dc7-6f8b-4932-bd74-055ef1882955",
+          "createdAt": "2026-01-19T18:26:11.060Z",
+          "updatedAt": "2026-01-19T18:26:11.060Z",
+          "deletedAt": null
+        },
+        "nonGoldItem": null
+      }
+    ],
+    "NON_GOLD": [
+      {
+        "id": "6fc0c69d-f075-4d62-b70f-869e3426de34",
+        "productType": "NON_GOLD",
+        "name": "Silver Ingot",
+        "createdAt": "2026-01-19T18:26:11.093Z",
+        "updatedAt": "2026-01-19T18:26:11.093Z",
+        "deletedAt": null,
+        "goldJewelryItem": null,
+        "goldBarItem": null,
+        "nonGoldItem": {
+          "id": "1ef3da4f-f8c6-4b4d-b1a0-ebad51ae20bd",
+          "lowQualityBuyPricePerGram": null,
+          "lowQualitySellPricePerGram": null,
+          "highQualityBuyPricePerGram": 43002,
+          "highQualitySellPricePerGram": 43002,
+          "productId": "6fc0c69d-f075-4d62-b70f-869e3426de34",
+          "createdAt": "2026-01-19T18:26:11.093Z",
+          "updatedAt": "2026-01-19T18:26:11.093Z",
+          "deletedAt": null
+        }
+      },
+      {
+        "id": "227dc8a7-8e8c-4de9-aedf-f131a4660a51",
+        "productType": "NON_GOLD",
+        "name": "Silver",
+        "createdAt": "2026-01-19T18:26:11.095Z",
+        "updatedAt": "2026-01-19T18:26:11.095Z",
+        "deletedAt": null,
+        "goldJewelryItem": null,
+        "goldBarItem": null,
+        "nonGoldItem": {
+          "id": "a91a289e-4786-4b84-b2ed-52beee2a27a4",
+          "lowQualityBuyPricePerGram": 27825,
+          "lowQualitySellPricePerGram": 27825,
+          "highQualityBuyPricePerGram": 35414,
+          "highQualitySellPricePerGram": 35414,
+          "productId": "227dc8a7-8e8c-4de9-aedf-f131a4660a51",
+          "createdAt": "2026-01-19T18:26:11.095Z",
+          "updatedAt": "2026-01-19T18:26:11.095Z",
+          "deletedAt": null
+        }
+      },
+      {
+        "id": "94800e95-c781-476d-8d51-883e65648996",
+        "productType": "NON_GOLD",
+        "name": "Platinum",
+        "createdAt": "2026-01-19T18:26:11.096Z",
+        "updatedAt": "2026-01-19T18:26:11.096Z",
+        "deletedAt": null,
+        "goldJewelryItem": null,
+        "goldBarItem": null,
+        "nonGoldItem": {
+          "id": "424ef6ae-80c0-4715-aaa7-1fbfed721988",
+          "lowQualityBuyPricePerGram": 807341,
+          "lowQualitySellPricePerGram": 807341,
+          "highQualityBuyPricePerGram": 999565,
+          "highQualitySellPricePerGram": 999565,
+          "productId": "94800e95-c781-476d-8d51-883e65648996",
+          "createdAt": "2026-01-19T18:26:11.096Z",
+          "updatedAt": "2026-01-19T18:26:11.096Z",
+          "deletedAt": null
+        }
+      },
+      {
+        "id": "8703e5ac-e1bc-417f-8410-6b3bc49a005e",
+        "productType": "NON_GOLD",
+        "name": "Palladium",
+        "createdAt": "2026-01-19T18:26:11.097Z",
+        "updatedAt": "2026-01-19T18:26:11.097Z",
+        "deletedAt": null,
+        "goldJewelryItem": null,
+        "goldBarItem": null,
+        "nonGoldItem": {
+          "id": "eb715979-b4c4-4687-a9fa-5401b50e47d3",
+          "lowQualityBuyPricePerGram": 499782,
+          "lowQualitySellPricePerGram": 499782,
+          "highQualityBuyPricePerGram": 692006,
+          "highQualitySellPricePerGram": 692006,
+          "productId": "8703e5ac-e1bc-417f-8410-6b3bc49a005e",
+          "createdAt": "2026-01-19T18:26:11.097Z",
+          "updatedAt": "2026-01-19T18:26:11.097Z",
+          "deletedAt": null
+        }
+      },
+      {
+        "id": "9e486f70-823c-4883-a6e9-0a6b5e77b225",
+        "productType": "NON_GOLD",
+        "name": "Rhodium",
+        "createdAt": "2026-01-19T18:26:11.098Z",
+        "updatedAt": "2026-01-19T18:26:11.098Z",
+        "deletedAt": null,
+        "goldJewelryItem": null,
+        "goldBarItem": null,
+        "nonGoldItem": {
+          "id": "5bc7f8f0-70d6-4b6a-b533-a938a1ec7558",
+          "lowQualityBuyPricePerGram": 2370762,
+          "lowQualitySellPricePerGram": 2370762,
+          "highQualityBuyPricePerGram": 2562986,
+          "highQualitySellPricePerGram": 2562986,
+          "productId": "9e486f70-823c-4883-a6e9-0a6b5e77b225",
+          "createdAt": "2026-01-19T18:26:11.098Z",
+          "updatedAt": "2026-01-19T18:26:11.098Z",
+          "deletedAt": null
+        }
+      },
+      {
+        "id": "8249b232-f076-4994-a668-518802d16cdd",
+        "productType": "NON_GOLD",
+        "name": "Iridium",
+        "createdAt": "2026-01-19T18:26:11.100Z",
+        "updatedAt": "2026-01-19T18:26:11.100Z",
+        "deletedAt": null,
+        "goldJewelryItem": null,
+        "goldBarItem": null,
+        "nonGoldItem": {
+          "id": "e944d6f2-92e6-4f74-aacd-8cbc9949b52a",
+          "lowQualityBuyPricePerGram": 1345568,
+          "lowQualitySellPricePerGram": 1345568,
+          "highQualityBuyPricePerGram": 1537792,
+          "highQualitySellPricePerGram": 1537792,
+          "productId": "8249b232-f076-4994-a668-518802d16cdd",
+          "createdAt": "2026-01-19T18:26:11.100Z",
+          "updatedAt": "2026-01-19T18:26:11.100Z",
+          "deletedAt": null
+        }
+      },
+      {
+        "id": "0ad5bd75-c4ad-4b46-b93f-467f1a979e06",
+        "productType": "NON_GOLD",
+        "name": "Ruthenium",
+        "createdAt": "2026-01-19T18:26:11.101Z",
+        "updatedAt": "2026-01-19T18:26:11.101Z",
+        "deletedAt": null,
+        "goldJewelryItem": null,
+        "goldBarItem": null,
+        "nonGoldItem": {
+          "id": "d1257a41-95f7-4cec-840d-c35752a160eb",
+          "lowQualityBuyPricePerGram": 59500,
+          "lowQualitySellPricePerGram": 59500,
+          "highQualityBuyPricePerGram": 70000,
+          "highQualitySellPricePerGram": 70000,
+          "productId": "0ad5bd75-c4ad-4b46-b93f-467f1a979e06",
+          "createdAt": "2026-01-19T18:26:11.101Z",
+          "updatedAt": "2026-01-19T18:26:11.101Z",
+          "deletedAt": null
+        }
+      },
+      {
+        "id": "14f208cc-4f97-4dfb-b854-278cf2243857",
+        "productType": "NON_GOLD",
+        "name": "Tantalum",
+        "createdAt": "2026-01-19T18:26:11.102Z",
+        "updatedAt": "2026-01-19T18:26:11.102Z",
+        "deletedAt": null,
+        "goldJewelryItem": null,
+        "goldBarItem": null,
+        "nonGoldItem": {
+          "id": "dd03ad6a-aa8d-4c4b-99db-2e3a5bdb8cb9",
+          "lowQualityBuyPricePerGram": null,
+          "lowQualitySellPricePerGram": null,
+          "highQualityBuyPricePerGram": 1600000,
+          "highQualitySellPricePerGram": 1600000,
+          "productId": "14f208cc-4f97-4dfb-b854-278cf2243857",
+          "createdAt": "2026-01-19T18:26:11.102Z",
+          "updatedAt": "2026-01-19T18:26:11.102Z",
+          "deletedAt": null
+        }
+      }
+    ]
+  }
+}
